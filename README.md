@@ -128,5 +128,15 @@ nag = big, large
     Lam hoib nel noig? 
 </details>
 
-
-
+#### Commands and Requests 
+The ia/ua conjugation works the same way as i/o, marking the verb, except that it turns the statement into a recommendation, suggestion, or what the speaker believes should happen. When used with a subject, it marks what the speaker thinks the subject should do. When used without a subject, it acts as a command or request of the speaker. Note that this is completely neutral and does not imply negative tone.  
+ - jup = to draw  
+ - jut = he, she, it, him, her, they  
+<details> 
+  <summary>She should draw</summary>
+    Jut juap
+</details>
+<details> 
+  <summary>Juap</summary>
+    Draw / I wish you would draw
+</details>
