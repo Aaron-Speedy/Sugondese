@@ -292,7 +292,7 @@ tul = stone, rock, hard thing
 </details>
 
 #### Causatives
-The construction [subject] [verb] jiaf sel [recipient] can be used to show causatives. It says that the subject caused the recipient [verb]. A good example is *Nuz vish jiaf sel gat*. Literaly, it means *You caused joy to me*, which can be interpreted as *You caused me to be happy*. 
+The construction [subject] [verb] jiaf sel [recipient] can be used to show causatives. It says that the subject caused the recipient [verb]. A good example is *Nuz vish jiaf sel gat*. Literaly, *You caused joy to me*, which can be interpreted as *You caused me to be happy*. 
 <details> 
   <summary>Gat wid jiaf</summary>
   I cause eating
