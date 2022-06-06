@@ -30,14 +30,13 @@ Try to find out what part of speech each of the bolded words are
 
 #### Conjugation
 To conjugate a word in Sugondese, you find the vowel of the base form of the word and replace it with the corresponding vowel of the form you are conjugating to. For example, the base word wad means food and to eat. In order to conjugate it into the verb form, you replace a with i, resulting in wid. 
-The 7 conjugation patterns in Sugondese are:
+The 6 conjugation patterns in Sugondese are:
 - a/u = noun
 - i/o = verb
 - ia/ua = adjective/adverb
 - ai/au = command : verb
 - oi/ei = question : verb
 - eu/eo = if : verb
-- ue/oe = then : verb  
 
 You've already seen the noun and verb conjugations. We'll talk about the others later. 
 Try conjugating these words
@@ -154,3 +153,15 @@ In Sugondese, adjectives and adverbs, collectively called modifiers, can be form
   <summary>Paz giag</summary>
     Bad car
 </details>
+
+#### Conditional statements
+In Sugondese, conditional statements are statements of the form, *if...then...*. In order to express this, you conjugate the first sentence to the if form(eu/eo), and the second sentence normally. 
+<details> 
+  <summary>If they draw, they're good</summary>
+    Jut jeop. Jut dish. 
+</details>
+<details> 
+  <summary>Gat weud. Gat wid lud</summary>
+    If I eat, I eat plants. 
+</details>
+
