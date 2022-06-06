@@ -177,10 +177,11 @@ There are ten prepositions in Sugondese.
 - set - because of, caused by (causal)
 - sed - than, as, like 
 - sech - for, so that  
-They are used exactly the same as in English. When using sesh or sej, the thing that is more/less than is an adjective, meaning it is conjugated to the modifier form. Once the property is stated, the one who has that property is said right after as a noun. 
-nuz = you
-pash = earth, land, outdoors, world, country, territory, soil, ground
-such = to know, to be skilled in, to be wise about, to have information on
+
+They are used exactly the same as in English. When using sesh or sej, the thing that is more/less than is an adjective, meaning it is conjugated to the modifier form. Once the property is stated, the one who has that property is said right after as a noun.  
+nuz = you  
+pash = earth, land, outdoors, world, country, territory, soil, ground  
+such = to know, to be skilled in, to be wise about, to have information on  
 <details> 
   <summary>You draw better than me</summary>
     Nuz jop sej diash gat. 
