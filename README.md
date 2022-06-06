@@ -128,7 +128,7 @@ nag = big, large
 </details>
 
 #### Commands and Requests 
-The ia/ua conjugation works the same way as i/o, marking the verb, except that it turns the statement into a recommendation, suggestion, or what the speaker believes should happen. When used with a subject, it marks what the speaker thinks the subject should do. When used without a subject, it acts as a command or request of the speaker. Note that this is completely neutral and does not imply negative tone.  
+The ia/ua conjugation works the same way as i/o, marking the verb, except that it turns the statement into a recommendation, suggestion, or what the speaker believes should happen. When used with a subject, it marks what the speaker thinks the subject should do. When used without a subject, it acts as a command or request of the speaker. Note that this is completely neutral and does not imply a negative tone.  
  - jup = to draw  
  - jut = he, she, it, him, her, they  
 <details> 
@@ -165,3 +165,31 @@ In Sugondese, conditional statements are statements of the form, *if...then...*.
     If I eat, I eat plants. 
 </details>
 
+#### Prepositions 
+There are ten prepositions in Sugondese. 
+- sem - from (ablative)  
+- ses - in, at, on (locative) 
+- sen - using (instrumental) 
+- sel - towards, to, in order to (dative, allative) 
+- sej - more then, better than
+- sesh - less than, worse than
+- sek - along with, with (comitative)
+- set - because of, caused by (causal)
+- sed - than, as, like 
+- sech - for, so that  
+They are used exactly the same as in English. When using sesh or sej, the thing that is more/less than is an adjective, meaning it is conjugated to the modifier form. Once the property is stated, the one who has that property is said right after as a noun. 
+nuz = you
+pash = earth, land, outdoors, world, country, territory, soil, ground
+such = to know, to be skilled in, to be wise about, to have information on
+<details> 
+  <summary>You draw better than me</summary>
+    Nuz jop sej diash gat. 
+</details>
+<details> 
+  <summary>I draw because you draw</summary>
+  Gat jop set nuz jop. 
+</details>
+<details> 
+  <summary>Gat wid ses pash suach</summary>
+  I eat in the school(literally, I eat in the learning place)
+</details>
