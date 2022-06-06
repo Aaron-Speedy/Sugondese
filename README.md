@@ -175,7 +175,7 @@ There are ten prepositions in Sugondese.
 - sesh - less than, worse than
 - sek - along with, with (comitative)
 - set - because of, caused by (causal)
-- sed - than, as, like 
+- sed - like
 - sech - for, so that  
 
 They are used exactly the same as in English. When using sesh or sej, the thing that is more/less than is an adjective, meaning it is conjugated to the modifier form. Once the property is stated, the one who has that property is said right after as a noun.  
@@ -192,5 +192,82 @@ such = to know, to be skilled in, to be wise about, to have information on
 </details>
 <details> 
   <summary>Gat wid ses pash suach</summary>
-  I eat in the school(literally, I eat in the learning place)
+  I eat in the school(literally, I eat in the knowledge place)
 </details>
+
+#### Special particles
+There are some special particles that are neither prepositions nor related to each other. 
+- lep - this fills in for whatever is being asked in a non-y/n question
+- len - this negates the preposition before it or verb after it 
+- lech - this is a context marker. sentence... lech sentence, meaning, in the context of [x], [y]
+- leb - same as lech, but it acts on the end of a sentence
+- lev - noun clause 
+- leg - relative clause
+- lem - of (genitive)
+- lek - immediate genitive 
+- lej - name marker
+- lef - ending name marker (optional)
+Let's go through each of these individually.
+
+#### Len 
+Simply add len right after a preposition or before a verb to negate it. 
+
+<details> 
+  <summary>Gat len wid</summary>
+  I do not eat
+</details>
+
+#### Lech
+Lech shows the context of the event stated in the sentence. 
+<details> 
+  <summary>When you draw, I eat</summary>
+  Nuz jop lech gat wid. 
+</details>
+
+#### Leb
+This is exactly the same as lech, but put at the end of a sentence. 
+<details> 
+  <summary>Gat wid leb nuz jop</summary>
+  When you draw, I eat
+</details>
+
+#### Lev
+This converts verbs/verbs + objects into nouns using the to construction. 
+nam = to love
+<details> 
+  <summary>Gat nam lev wid wad</summary>
+  I love to eat food
+</details>
+<details> 
+  <summary>Gat nam lev jop</summary>
+  I love to draw
+</details>
+
+#### Leg
+This is a relative clause marker. 
+<details> 
+  <summary>Gat wim wam leg dash</summary>
+  I eat the food which is good
+</details>
+
+#### Lem
+This is similar to pi in toki pona. Wikipedia gives a really good explanation of it. 
+```
+By default, words in noun phrases each affect the sum of all preceding words, modifying the phrase individually in succession. pi regroups this order, introducing a group of words that modifies the phrase as a unit. It is roughly equivalent to hyphenating a phrasal adjective in English. As a common example, "tomo telo nasa" might be interpreted as "weird washroom", whereas "tomo pi telo nasa" might be interpreted as "pub" (literally "strange-liquid building" or "alcohol building"). 
+```
+#### Lek
+This is like lem, but it only affects the word directly after it. 
+
+#### Lej
+This converts the word directly after lej into a proper noun
+
+#### Lef
+This allows names to be an arbituary number of syllables long
+Lej ... lef
+
+#### Conjunctions
+Sugondese has three conjunctions. They are used in exactly the same way that they are in English. 
+- nem - and
+- nel - or
+- nef - but
+
