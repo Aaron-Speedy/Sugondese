@@ -2,14 +2,16 @@
 # Sugondese
 
 ## Phonology
-The phonology of Sugondese is quite simple. There are only 19 consonants with no silent letters or context-dependent pronunciation. The consonants are, m, n, p, b, t, d, k, g, f, v, s, z, sh, j, ch, l, w, y, and h. All of these are exactly the same as in English, except for j, which is pronounced like the g in genre. 
+The phonology of Sugondese is quite simple. There are only 19 consonants with no silent letters or context-dependent pronunciation. The consonants are, m, n, p, b, t, d, k, g, f, v, s, z, sh, j, ch, l, bl, kl, and h. All of these are exactly the same as in English, except for j, which is pronounced like the g in genre. 
 There are 5 vowels. They are, a, e, i, o u. If you know Japanese or Spanish, you can pronounce these pretty easily, but for those who don't, they are pronounced, f**a**ther, b**e**t, m**ee**t, m**o**re, and f**oo**d
 Every word in Sugondese is exactly one syllable. Words are CV(V...)C, meaning there is one initial consonant, one final consonant, and one or more vowels. 
+## Resolving Ambiguity 
+Sugondese has a total of 273 au words. With so few words, you might expect complex communication to be essentially impossible. This is not the case. Because of Sugondese's robust derivation system, any word can act as any part of speech, and new words can be derived using adjectives. This allows for essentially infinite words. 
 ## Basic Grammar
 There are two basic word types. Au words, and particles. Particles are words that indicate grammar. Think of words like but, however, to, or using. Au words have standalone meanings, meaning, unlike particles, they can mean something on their own. Think of words like car, eat, or good. 
 Particles always have the vowel *e*, while au words have either a or u in their base form.
 #### Base words, word order, and conjugation 
-Au words have base forms. This means that they can relate to the rest of the sentence however they want. To tell how they fit in with the rest of the sentence, they need to be conjugated. Subjects and objects are left unconjugated and are determined through word order. The subject goes first, then the verb, and finally the object, just like in English. Think of the sentence, *The animal eats food*. The subject is *the animal*, the verb is *eats*, and the object is *food*.  To say this in Sugondese, you would say *Vuf wid wad*.  Vuf, meaning animal, is unconjugated. You can see from the order of the sentence that it is the subject of the sentence. Wid, meaning food and to eat, is conjugated to the verb form. Wad, again, meaning food and to eat, is left unconjugated and simply means food. You can see from the order of the sentence that it is the object. 
+Au words have base forms. This means that they can relate to the rest of the sentence however they want. To tell how they fit in with the rest of the sentence, they need to be conjugated. Subjects and objects are left unconjugated and are determined through word order. The subject goes first, then the verb, and finally the object, just like in English. Think of the sentence, *The animal eats food*. The subject is *the animal*, the verb is *eats*, and the object is *food*.  To say this in Sugondese, you would say *Vuf klid *.  Vuf, meaning animal, is unconjugated. You can see from the order of the sentence that it is the subject of the sentence. klid, meaning food and to eat, is conjugated to the verb form. , again, meaning food and to eat, is left unconjugated and simply means food. You can see from the order of the sentence that it is the object. 
 Try to find out what part of speech each of the bolded words are
 <details> 
   <summary> <b>I</b> eat hamburgers</summary>
@@ -29,7 +31,7 @@ Try to find out what part of speech each of the bolded words are
 </details>
 
 #### Conjugation
-To conjugate a word in Sugondese, you find the vowel of the base form of the word and replace it with the corresponding vowel of the form you are conjugating to. For example, the base word wad means food and to eat. In order to conjugate it into the verb form, you replace a with i, resulting in wid. 
+To conjugate a word in Sugondese, you find the vowel of the base form of the word and replace it with the corresponding vowel of the form you are conjugating to. For example, the base word  means food and to eat. In order to conjugate it into the verb form, you replace a with i, resulting in klid. 
 The 6 conjugation patterns in Sugondese are:
 - a/u = noun
 - i/o = verb
@@ -56,12 +58,12 @@ Try conjugating these words
 - lut = plant, vegetation, vegetable
 - gat = I, me
 - vus = to accept
-- wad = to eat, to drink, to consume, to swallow, to ingest, food, food-like, edible  
+-  = to eat, to drink, to consume, to swallow, to ingest, food, food-like, edible  
 
 Using these words, translate the following sentences 
 <details> 
   <summary> I eat the plant</summary>
-    Gat wid lut
+    Gat klid lut
 </details>
 <details> 
   <summary> I accept the plant</summary>
@@ -69,7 +71,7 @@ Using these words, translate the following sentences
 </details>
 <details> 
   <summary> The plant eats me</summary>
-    Lut wid gat
+    Lut klid gat
 </details>
 
 #### Word derivation
@@ -161,7 +163,7 @@ In Sugondese, conditional statements are statements of the form, *if...then...*.
     Jut jeop. Jut dish. 
 </details>
 <details> 
-  <summary>Gat weud. Gat wid lud</summary>
+  <summary>Gat weud. Gat klid lud</summary>
     If I eat, I eat plants. 
 </details>
 
@@ -191,7 +193,7 @@ such = to know, to be skilled in, to be wise about, to have information on
   Gat jop set nuz jop. 
 </details>
 <details> 
-  <summary>Gat wid ses pash suach</summary>
+  <summary>Gat klid ses pash suach</summary>
   I eat in the school(literally, I eat in the knowledge place)
 </details>
 
@@ -213,7 +215,7 @@ Let's go through each of these individually.
 Simply add len right after a preposition or before a verb to negate it. 
 
 <details> 
-  <summary>Gat len wid</summary>
+  <summary>Gat len klid</summary>
   I do not eat
 </details>
 
@@ -221,13 +223,13 @@ Simply add len right after a preposition or before a verb to negate it.
 Lech shows the context of the event stated in the sentence. 
 <details> 
   <summary>When you draw, I eat</summary>
-  Nuz jop lech gat wid. 
+  Nuz jop lech gat klid. 
 </details>
 
 #### Leb
 This is exactly the same as lech, but put at the end of a sentence. 
 <details> 
-  <summary>Gat wid leb nuz jop</summary>
+  <summary>Gat klid leb nuz jop</summary>
   When you draw, I eat
 </details>
 
@@ -235,7 +237,7 @@ This is exactly the same as lech, but put at the end of a sentence.
 This converts verbs/verbs + objects into nouns using the to construction. 
 nam = to love
 <details> 
-  <summary>Gat nam lev wid wad</summary>
+  <summary>Gat nam lev klid </summary>
   I love to eat food
 </details>
 <details> 
@@ -246,7 +248,7 @@ nam = to love
 #### Leg
 This is a relative clause marker. 
 <details> 
-  <summary>Gat wim wam leg dash</summary>
+  <summary>Gat klid  leg dash</summary>
   I eat the food which is good
 </details>
 
@@ -294,13 +296,10 @@ tul = stone, rock, hard thing
 #### Causatives
 The construction [subject] [verb] jiaf sel [recipient] can be used to show causatives. It says that the subject caused the recipient [verb]. A good example is *Nuz vish jiaf sel gat*. Literaly, *You caused joy to me*, which can be interpreted as *You caused me to be happy*. 
 <details> 
-  <summary>Gat wid jiaf</summary>
+  <summary>Gat klid jiaf</summary>
   I cause eating
 </details>
 <details> 
   <summary>I make you eat</summary>
-  Gat wid jiaf sel nuz. 
+  Gat klid jiaf sel nuz. 
 </details>
-
-
- 
