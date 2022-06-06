@@ -91,7 +91,7 @@ There are three kinds of questions you may want to ask: polar questions (yes/no)
 To express polar questions, all you need to do is conjugate the verb to the question form. As you might remember from up there, the question form is oi/ei. 
 Try turning these statements into questions. 
 <details> 
-  <summary> Pan pim lam</summary>
+  <summary>Pan pim lam</summary>
     Pan poim lam?
 </details>
 <details> 
@@ -139,4 +139,18 @@ The ia/ua conjugation works the same way as i/o, marking the verb, except that i
 <details> 
   <summary>Juap</summary>
     Draw / I wish you would draw
+</details>
+
+#### Adjectives and Adverbs
+In Sugondese, adjectives and adverbs, collectively called modifiers, can be formed by conjugating the verb to the modifer form(ia/ua) and placing it after the modified word. 
+ - dash = good
+ - gag = bad
+ - paz = car
+<details> 
+  <summary>Good car</summary>
+    Paz diash
+</details>
+<details> 
+  <summary>Paz giag</summary>
+    Bad car
 </details>
