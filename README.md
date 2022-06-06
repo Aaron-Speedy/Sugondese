@@ -271,3 +271,22 @@ Sugondese has three conjunctions. They are used in exactly the same way that the
 - nel - or
 - nef - but
 
+#### To exist
+Most verbs mean to-be something. Some do not. How do we express the to-be form of these verbs? In Sugondese we use the copula, nuj. 
+- noj [modifier] = to be modifier
+- noj lem [noun] = to be noun   
+Note that in the example above, both the noun and the modifer are conjugated to the modifier form. 
+<details> 
+  <summary>I am a car. vroom vroom</summary>
+  Gat loj lem piaz. vol lum vol lum
+</details>
+
+#### To become
+The word zuf means to become. It can be used exactly like nuj. 
+- zof [modifier] = to become modifier
+- zof lem [noun] = to become noun   
+tul = stone, rock, hard thing
+<details> 
+  <summary>I turn to stone. vroom vroom</summary>
+  Gat zof lem tual. vol lum vol lum
+</details>
