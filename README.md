@@ -2,7 +2,7 @@
 # Sugondese
 
 ## Phonology
-The phonology in Sugondese is quite simple. There are only 19 consonants with no silent letters or context-dependent pronunciation. The consonants are, m, n, p, b, t, d, k, g, f, v, s, z, sh, j, ch, l, w, y, and h. All of these are exactly the same as in English, except for j, which is pronounced like the g in genre. 
+The phonology of Sugondese is quite simple. There are only 19 consonants with no silent letters or context-dependent pronunciation. The consonants are, m, n, p, b, t, d, k, g, f, v, s, z, sh, j, ch, l, w, y, and h. All of these are exactly the same as in English, except for j, which is pronounced like the g in genre. 
 There are 5 vowels. They are, a, e, i, o u. If you know Japanese or Spanish, you can pronounce these pretty easily, but for those who don't, they are pronounced, f**a**ther, b**e**t, m**ee**t, m**o**re, and f**oo**d
 Every word in Sugondese is exactly one syllable. Words are CV(V...)C, meaning there is one initial consonant, one final consonant, and one or more vowels. 
 ## Basic Grammar
