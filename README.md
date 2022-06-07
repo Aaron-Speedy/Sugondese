@@ -89,7 +89,7 @@ Verbs:
  - Capability ("[verb]-able")
 #### Questions
 There are three kinds of questions you may want to ask: polar questions (yes/no), open questions (who/what/why etc), and alternative questions (this or that). Let's go over them one by one.
-To express polar questions, all you need to do is conjugate the verb to the question form. As you might remember from up there, the question form is oi/ei. 
+To express polar questions, all you need to do is conjugate the verb to the question form. As you might remember from up there, the question form is oi/ei. To reply to a polar question, simply reply with nuj(yes) or gud(no). 
 Try turning these statements into questions. 
 <details> 
   <summary>Pan pim lam</summary>
@@ -257,6 +257,9 @@ This is similar to pi in toki pona. Wikipedia gives a really good explanation of
 ```
 By default, words in noun phrases each affect the sum of all preceding words, modifying the phrase individually in succession. pi regroups this order, introducing a group of words that modifies the phrase as a unit. It is roughly equivalent to hyphenating a phrasal adjective in English. As a common example, "tomo telo nasa" might be interpreted as "weird washroom", whereas "tomo pi telo nasa" might be interpreted as "pub" (literally "strange-liquid building" or "alcohol building"). 
 ```
+word_1 <- adj_1 <- adj_2 <- adj_3 vs word_1 <- adj_1 + lem <- adj_2 <- adj_3  
+(((((word_1) <- adj_1)) <- adj_2) <- adj_3) vs (word_1 <- adj_1) <- (adj_2 <- adj_3)  
+
 #### Lek
 This is like lem, but it only affects the word directly after it. 
 
@@ -303,3 +306,13 @@ The construction [subject] [verb] jiaf sel [recipient] can be used to show causa
   <summary>I make you eat</summary>
   Gat klid jiaf sel nuz. 
 </details>
+
+### Setting the Scene
+Where are the plurals? Where are the tenses? How do you mark aspect? All of these are optional. You mark them with modifiers. 
+One thing to note about tenses is that in order to mark a specific time you use a lech clause with the verb guz, meaning time, along with a modifier. 
+
+## Phrases and Emotion
+peko = general term of politeness
+a = emphasis; modifier
+mi tawa = bye 
+o pasan = hi/bye
