@@ -312,7 +312,7 @@ Where are the plurals? Where are the tenses? How do you mark aspect? All of thes
 One thing to note about tenses is that in order to mark a specific time you use a lech clause with the verb guz, meaning time, along with a modifier. 
 
 ## Phrases and Emotion
-peko = general term of politeness
-a = emphasis; modifier
-mi tawa = bye 
-o pasan = hi/bye
+- peko = general term of politeness
+- a = emphasis; modifier
+- mi tawa = bye 
+- o pasan = hi/bye
