@@ -208,7 +208,7 @@ There are some special particles that are neither prepositions nor related to ea
 - lem - of (genitive)
 - lek - immediate genitive 
 - lej - name marker
-- lef - ending name marker (optional)
+- lef - ending name marker (optional)  
 Let's go through each of these individually.
 
 #### Len 
