@@ -254,9 +254,7 @@ This is a relative clause marker.
 
 #### Lem
 This is similar to pi in toki pona. Wikipedia gives a really good explanation of it. 
-```
-By default, words in noun phrases each affect the sum of all preceding words, modifying the phrase individually in succession. pi regroups this order, introducing a group of words that modifies the phrase as a unit. It is roughly equivalent to hyphenating a phrasal adjective in English. As a common example, "tomo telo nasa" might be interpreted as "weird washroom", whereas "tomo pi telo nasa" might be interpreted as "pub" (literally "strange-liquid building" or "alcohol building"). 
-```
+> By default, words in noun phrases each affect the sum of all preceding words, modifying the phrase individually in succession. pi regroups this order, introducing a group of words that modifies the phrase as a unit. It is roughly equivalent to hyphenating a phrasal adjective in English. As a common example, "tomo telo nasa" might be interpreted as "weird washroom", whereas "tomo pi telo nasa" might be interpreted as "pub" (literally "strange-liquid building" or "alcohol building"). 
 word_1 <- adj_1 <- adj_2 <- adj_3 vs word_1 <- adj_1 + lem <- adj_2 <- adj_3  
 (((((word_1) <- adj_1)) <- adj_2) <- adj_3) vs (word_1 <- adj_1) <- (adj_2 <- adj_3)  
 
